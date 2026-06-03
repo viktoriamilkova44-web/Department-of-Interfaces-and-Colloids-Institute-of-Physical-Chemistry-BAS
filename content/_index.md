@@ -19,7 +19,6 @@ sections:
         <br>
         
         Design, characterization and optimization of complex liquid media and nanostructured materials for applications in medicine, pharmacy, cosmetics, food and oil industries and for environmental protection:
-
 - investigation the properties of adsorption layers of liquid phase boundaries thin liquid films (foams, emulsions and wetting)
 - wetting phenomena, determination of the three-phase contact parameters
 - correlation composition/properties/stability of foams and emulsions
