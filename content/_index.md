@@ -9,10 +9,6 @@ sections:
     content:
       title: |
         Department of Interfaces and Colloids
-
-        Institute of Physical Chemistry
-    
-        Bulgarian Academy of Sciences
       image:
         filename: welcome.jpg
       text: |
