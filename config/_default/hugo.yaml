@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Institute if Physical Chemistry, Bulgarian Academy of Sciences # Website name
+title: Institute of Physical Chemistry, Bulgarian Academy of Sciences # Website name
 baseURL: 'https://example.com/' # Website URL
 
 ############################
